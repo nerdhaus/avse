@@ -1,0 +1,13 @@
+# OS generated files #
+######################
+.DS_Store*
+
+
+# Project files #
+#################
+*.esproj
+
+
+# Jekyll generated files #
+##########################
+_site
