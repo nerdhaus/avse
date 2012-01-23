@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
-<img src="{{ page.image }}" class="" alt="" />
-{{ content }}
+<article>
+  {% if page.image %}
+  <img src="{{ page.image }}" class="" alt="" />
+  {% endif %}
+
+  {{ content }}
+</article>
 
 <aside>
-<h2>Fun Facts</h2>
-<ul>
-{% for fact in page.facts %}
-<li>{{ fact }}</li>
-{% endfor %}
-</ul>
+  <h2>Fun Facts</h2>
+  <ul>
+    {% for fact in page.facts %}
+    <li>{{ fact }}</li>
+    {% endfor %}
+  </ul>
 </aside>
+
+

@@ -1,15 +1,12 @@
 ---
 layout: default
-title: A Very Special Episode
 ---
-<header>
-<h1><span>a very</span><span>special</span><span>episode</span></h1>
+
 <div id="promo">
 {% for post in site.posts limit:1 %}
 {{ post.episode }}
 {% endfor %}
 </div>
-</header>
 
 <ul id="episodes">
 {% for post in site.posts offset:1 %}

@@ -93,6 +93,17 @@ body {
 	-webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
 }
 
+article {
+  width: 620px;
+  float: left;
+}
+
+aside {
+  width: 204px;
+  float: right;
+}
+
+footer { clear: both; }
 
 
 /*		Tablet Layout: 768px.
@@ -109,6 +120,18 @@ px      68    160    252    344    436    528    620    712    */
 		width: 712px;
 		padding: 48px 28px 60px;
 	}
+
+  article {
+      width: 528px;
+      float: left;
+  }
+
+  aside {
+      width: 136px;
+      float: right;
+  }
+  
+  footer { clear: both; }
 }
 
 
@@ -127,6 +150,17 @@ px      68    160    252    */
 		width: 252px;
 		padding: 48px 34px 60px;
 	}
+
+  article {
+      width: 252px;
+      float: none;
+      clear: both;
+  }
+
+  aside {
+      width: 252px;
+      float: none;
+  }
 	
 }
 
