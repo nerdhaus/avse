@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<head>
-<title>{{ title }}</title>
-{% include head.inc %}
-</head>
-
-<body>
-
-<div id="container" class="cf">
-<div id="main" role="main">
-
-<header>
-<h1>{{ page.title }}</h1>
-<div>social icons here</div>
-</header>
-
+---
+layout: default
+---
+<img src="{{ page.image }}" class="" alt="" />
 {{ content }}
 
 <aside>
@@ -24,10 +12,3 @@
 {% endfor %}
 </ul>
 </aside>
-
-{% include footer.inc %}
-
-</div>
-</div>
-</body>
-</html>
