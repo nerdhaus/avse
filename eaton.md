@@ -3,7 +3,7 @@ layout: bio
 title: Eaton
 twitter: eaton
 homepage: http://angrylittletree.com
-image: /media/eaton.jpg
+image: /images/eaton.jpeg
 facts: 
 - Once co-hosted the 700 Club
 - Secretly made of focaccia

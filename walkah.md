@@ -1,9 +1,9 @@
 ---
 layout: bio
-title: Walkah
+title: walkah
 twitter: walkah
 homepage: http://walkah.net
-image: /media/walkah.jpg
+image: /images/walkah.jpeg
 facts: 
 - Lives on a diet of cheese
 - Sometimes sleeps with a teddy bear

@@ -3,10 +3,10 @@ layout: bio
 title: Heyrocker
 twitter: heyrocker
 homepage: http://www.heyrocker.com
-image: /media/heyrocker.jpg
+image: /images/heyrocker.jpg
 facts: 
-- More of a pinball mage, really
-- Can meow in nine languages
+  - More of a pinball mage, really
+  - Can meow in nine languages
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at enim in neque vehicula mollis vitae eu mauris. Integer convallis, nulla porta consectetur tempus, dui ligula dignissim justo, sed facilisis lorem mauris sollicitudin dui. Nullam consequat, ligula in accumsan tincidunt, augue metus auctor arcu, at auctor sapien libero vitae dui. Donec sit amet elit odio, at tincidunt metus. Phasellus ultrices ullamcorper ante, sit amet scelerisque tortor malesuada ac. Maecenas ultrices tellus ac lectus iaculis quis tempor erat sollicitudin.
 
