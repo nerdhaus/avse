@@ -1,0 +1,5 @@
+auto: false
+pygments: true
+lsi: false
+markdown: rdiscount
+exclude: Gemfile, Gemfile.lock, Rakefile
