@@ -3,7 +3,7 @@ layout: bio
 title: Heyrocker
 twitter: heyrocker
 homepage: http://www.heyrocker.com
-image: /images/heyrocker.jpg
+image: /images/greg.jpg
 facts: 
   - More of a pinball mage, really
   - Can meow in nine languages
