@@ -3,3 +3,19 @@ pygments: true
 lsi: false
 markdown: rdiscount
 exclude: Gemfile, Gemfile.lock, Rakefile
+
+# configuration required for some pages
+domain: averyspecialepisode.tv
+
+# configuration for ehancements
+google_analytics:
+  account: UA-29216841-1
+
+github:
+  username: nerdhaus
+
+disqus:
+  id: avse
+
+typekit:
+  code: hon3haq
