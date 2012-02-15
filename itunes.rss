@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" >
+    <channel>
+        <title>{{ site.title }}</title>
+        <link>{{ site.url }}</link>
+        <language>en-us</language>
+        <copyright>℗ &amp; © {{ post.date }} {{ site.author }}</copyright>
+        <itunes:subtitle>{{ site.slogan }}</itunes:subtitle>
+        <itunes:author>{{ site.author }}</itunes:author>
+        <itunes:summary>{{ site.summary }}</itunes:summary>
+        <description>{{ site.summary }}</description>
+        <itunes:owner>
+            <itunes:name>{{ site.author }}</itunes:name>
+            <itunes:email>{{ site.email }}</itunes:email>
+        </itunes:owner>
+        <itunes:image href="{{ site.logo }}"/>
+        <itunes:explicit>{{ site.explicit }}</itunes:explicit>
+        <item>
+            <title>{{ post.title }}</title>
+            <itunes:author>{{ post.author }}</itunes:author>
+            <itunes:subtitle>{{ post.itunes.subtitle }}</itunes:subtitle>
+            <itunes:summary>{{ post.itunes.summary }}</itunes:summary>
+            <enclosure url="{{ post.itunes.audio-url }}" length="{{ post.itunes..audio-size }}" type="audio/{{ post.itunes..audio-format }}"/>
+            <guid>{{ post.itunes.audio-url }}</guid>
+            <pubDate>{{ post.date }}</pubDate>
+            <itunes:duration>{{ post.duration }}</itunes:duration>
+            <itunes:keywords>{{ post.tags }}</itunes:keywords>
+        </item>
+    </channel>
+</rss>
