@@ -1,7 +1,8 @@
 ---
 layout: bio
-title: Eaton
+title: eaton
 twitter: eaton
+github: eaton
 homepage: http://angrylittletree.com
 image: /images/eaton.jpeg
 facts: 

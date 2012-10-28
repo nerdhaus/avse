@@ -1,7 +1,8 @@
 ---
 layout: bio
-title: Heyrocker
+title: heyrocker
 twitter: heyrocker
+github: heyrocker
 homepage: http://www.heyrocker.com
 image: /images/greg.jpg
 facts: 

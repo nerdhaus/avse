@@ -2,6 +2,7 @@
 layout: bio
 title: walkah
 twitter: walkah
+github: walkah
 homepage: http://walkah.net
 image: /images/walkah.jpeg
 facts: 
