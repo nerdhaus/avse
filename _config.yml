@@ -6,6 +6,7 @@ exclude: Gemfile, Gemfile.lock, Rakefile
 
 # configuration required for some pages
 domain: averyspecialepisode.tv
+title: A Very Special Episode
 
 # configuration for ehancements
 google_analytics:
