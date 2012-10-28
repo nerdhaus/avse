@@ -1,8 +1,11 @@
-<!-- Libraries -->
-<script src="/js/modernizr-1.7.min.js"></script>
-<script src="/js/jquery-1.7.1.min.js"></script>
-<script src="/js/jquery.jplayer.min.js"></script>
-<script src="/js/less-grid-4.js"></script>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/audio.min.js"></script>
+<script>
+  audiojs.events.ready(function() {
+  var as = audiojs.createAll();
+  });
+</script>
 
 {% if site.google_analytics %}
 <script type="text/javascript">
@@ -17,6 +20,7 @@
   })();
 </script>
 {% endif %}
+
 {% if site.typekit %}
 <script type="text/javascript" src="http://use.typekit.com/{{ site.typekit.code }}.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>

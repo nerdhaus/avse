@@ -1,45 +1,57 @@
 <!DOCTYPE html>
 <head>
-<title>{{ page.title }} | A Very Special Episode</title>
-<!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+  <meta charset="utf-8">
+  <title>
+    {% if page.title %}
+      {{ page.title }} | 
+    {% endif %}
+    {{ site.title }}
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<meta charset="utf-8">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.css">
+  <link rel="stylesheet" href="/css/avse.css" media="all">
+  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
 
-<link rel="stylesheet" media="all" href="/css/layout.css"/>
-<link rel="stylesheet" href="/css/blue.monday/jplayer.blue.monday.css" media="all">
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
-{{ include header_scripts.html }}
-
-<link rel="stylesheet" href="/css/avse.css" media="all">
-
-
-<!-- Icons and thingies -->
-<link rel="shortcut icon" href="/images/favicon.ico">
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+  <!-- Icons and thingies -->
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 
 </head>
 
 <body lang="en">
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a href="/" class="brand">a very special episode</a>  
 
-<div id="container" class="cf">
-<div id="main" role="main">
-<header>
-  <h1><a href="/">a very special episode</a></h1>
-  <nav>
-    <a href="/walkah.html">walkah</a> | <a href="/heyrocker.html">heyrocker</a> | <a href="/eaton.html">eaton</a>
-  </nav>
-  <h2>{{ page.title }}</h2>
-</header>
-{{ content }}
-</div>
+        <ul class="nav">
+          <li {% if page.url == "/eaton.html" %} class="active" {% endif %}><a href="/eaton.html">eaton</a></li>
+          <li {% if page.url == "/heyrocker.html" %} class="active" {% endif %}><a href="/heyrocker.html">heyrocker</a></li>
+          <li {% if page.url == "/walkah.html" %} class="active" {% endif %}><a href="/walkah.html">walkah</a></li>
+        </ul>
 
-<footer>
-der footer.
-</footer>
-</div>
+        <ul class="nav pull-right">
+          <li><a href="/itunes.xml">Subscribe <i class="icon-rss"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    {{ content }}
+
+    <hr />
+
+    <footer>
+      &copy; 2012 Nerdhaus Industries
+    </footer>
+  </div>
+
+  {% include scripts.html %}
 </body>
-
 </html>

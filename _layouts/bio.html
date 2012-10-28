@@ -1,21 +1,36 @@
 ---
 layout: default
 ---
-<article>
-  {% if page.image %}
-  <img src="{{ page.image }}" class="" alt="" />
-  {% endif %}
+<h1>{{ page.title }}</h1>
+<div class="row">
+  <div class="span6">
+    {{ content }}
 
-  {{ content }}
-</article>
+    <ul class="nav nav-pills">
+      <li><a href="{{ page.homepage }}"><i class="icon-link"></i> {{ page.homepage }}</a></li>
+      <li><a href="https://twitter.com/{{page.twitter}}"><i class="icon-twitter"></i> {{ page.twitter }}</a></li>
+      <li><a href="https://github.com/{{page.twitter}}"><i class="icon-github"></i> {{ page.github }}</a></li>
+    </ul>
 
-<aside>
-  <h2>Fun Facts</h2>
-  <ul>
-    {% for fact in page.facts %}
-    <li>{{ fact }}</li>
-    {% endfor %}
-  </ul>
-</aside>
+  </div>
+
+  <aside class="span6">
+    {% if page.image %}
+      <img src="{{ page.image }}" class="img-polaroid" alt="{{ page.title }}" />
+    {% endif %}
+
+    <h2>Fun Facts</h2>
+    <ul>
+      {% for fact in page.facts %}
+      <li>{{ fact }}</li>
+      {% endfor %}
+    </ul>
+
+
+
+  </aside>
+
+
+</div>
 
 
