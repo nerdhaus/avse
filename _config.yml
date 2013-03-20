@@ -1,7 +1,7 @@
 auto: false
 pygments: true
 lsi: false
-markdown: rdiscount
+markdown: kramdown
 exclude: Gemfile, Gemfile.lock, Rakefile
 
 # configuration required for some pages
