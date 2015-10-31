@@ -11,3 +11,6 @@
 # Jekyll generated files #
 ##########################
 _site
+.vagrant
+logs
+www/wp-config.php
