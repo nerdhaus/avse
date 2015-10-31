@@ -2,15 +2,8 @@
 ######################
 .DS_Store*
 
-
-# Project files #
-#################
-*.esproj
-
-
-# Jekyll generated files #
+# Wordpress and Vagrant stuff #
 ##########################
-_site
 .vagrant
 logs
 www/wp-config.php
