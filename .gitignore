@@ -7,3 +7,4 @@
 .vagrant
 logs
 www/wp-config.php
+www/wp-content/uploads*
