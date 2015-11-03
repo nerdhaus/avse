@@ -16,7 +16,7 @@ class SpecialSite extends TimberSite {
 
 	function __construct() {
 		add_theme_support( 'html5', array( 'comment-list', 'comment-form', 'search-form', 'gallery', 'caption' ) );
-		add_theme_support( 'post-formats', array( 'standard', 'link', 'image', 'audio', 'status' ) );
+		add_theme_support( 'post-formats', array( 'standard', 'link', 'image', 'audio', 'chat' ) );
 		add_theme_support( 'post-thumbnails' );
 		add_theme_support( 'menus' );
 		add_filter( 'timber_context', array( $this, 'add_to_context' ) );
