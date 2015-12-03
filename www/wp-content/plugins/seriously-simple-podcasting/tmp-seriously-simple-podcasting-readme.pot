@@ -1,0 +1,1438 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Seriously Simple Podcasting"
+msgstr ""
+
+#. Short description.
+msgid "Podcasting the way it&#039;s meant to be. No mess, no fuss - just you and your content taking over the world."
+msgstr ""
+
+#. Screenshot description.
+msgid "Audio player and episode details displayed on the frontend above post content."
+msgstr ""
+
+#. Screenshot description.
+msgid "The only info that you need to add to each podcast episode."
+msgstr ""
+
+#. Screenshot description.
+msgid "Set up your podcast."
+msgstr ""
+
+#. Screenshot description.
+msgid "Customise your podcast feed."
+msgstr ""
+
+#. Screenshot description.
+msgid "Secure your podcast feed."
+msgstr ""
+
+#. Screenshot description.
+msgid "Handle redirection for your feed."
+msgstr ""
+
+#. Screenshot description.
+msgid "Publish your podcast."
+msgstr ""
+
+#. Screenshot description.
+msgid "The podcast admin menu location."
+msgstr ""
+
+#. Screenshot description.
+msgid "Podcast episodes are shown in the At a Glance dashboard widget."
+msgstr ""
+
+#. Screenshot description.
+msgid "Recent episodes widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Single episode widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Podcast series widget"
+msgstr ""
+
+#. Found in description list item.
+msgid "Simple settings so you can get your podcast up and running quickly"
+msgstr ""
+
+#. Found in description list item.
+msgid "Run multiple podcasts from the same site - each with their own, unique RSS feed"
+msgstr ""
+
+#. Found in description list item.
+msgid "Gather thorough stats on your listeners using the <a href=\"https://wordpress.org/plugins/seriously-simple-stats/\">free stats add-on</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "New <code>podcast</code> post type and <code>series</code> taxonomy for managing your podcast episodes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Use any post type for your podcast episodes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Highly configurable and robust RSS feed designed for <em>all</em> podcast services and feed readers, including iTunes and Stitcher"
+msgstr ""
+
+#. Found in description list item.
+msgid "Shortcodes &amp; widgets for displaying podcast episode lists as well as single episodes anywhere on your site"
+msgstr ""
+
+#. Found in description list item.
+msgid "Playable episodes using the built-in WordPress media player"
+msgstr ""
+
+#. Found in description list item.
+msgid "The freedom to host your audio files on the same site or any other server"
+msgstr ""
+
+#. Found in description list item.
+msgid "Complete user and developer <a href=\"http://www.seriouslysimplepodcasting.com/\">documentation</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Full i18n support"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://www.seriouslysimplepodcasting.com/\">Seriously Simple Podcasting</a> is an easy-to-use podcasting solution for WordPress that is as powerful as it is simple. It uses a native WordPress interface and has minimal settings so as not to distract you from what you really need to do - publish your content."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Primary Features</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Where to find help</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Seriously Simple Podcasting comes with complete user and developer <a href=\"http://www.seriouslysimplepodcasting.com/\">documentation</a>. Please read this documentation thoroughly before posting on <a href=\"https://wordpress.org/support/plugin/seriously-simple-podcasting\">the support forum</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Add-ons</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Seriously Simple Podcasting comes with a growing <a href=\"http://www.seriouslysimplepodcasting.com/add-ons/\">library of add-ons</a>. Just like the core plugin itself, all of the add-ons are 100% free to use and will always remain that way."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>How to contribute</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want to contribute to Seriously Simple Podcasting, you can <a href=\"https://github.com/hlashbrooke/Seriously-Simple-Podcasting\">fork the GitHub repository</a> - please read the <a href=\"https://github.com/hlashbrooke/Seriously-Simple-Podcasting/blob/master/CONTRIBUTING.md\">contributor guidelines</a> for more information on how you can do this."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Help translate this plugin</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you would like to contribute translations to this plugin you can do so through <a href=\"https://translate.wordpress.org/projects/wp-plugins/seriously-simple-podcasting\">a simple web interface</a>. Any and all translations (new languages or updates to existing ones) are always welcome."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin via WordPress.org"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the ZIP file through the 'Plugins &gt; Add New &gt; Upload' screen in your WordPress dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Customise the plugin from the 'Podcast &gt; Settings' page"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Installing \"Seriously Simple Podcasting\" can be done either by searching for \"Seriously Simple Podcasting\" via the \"Plugins &gt; Add New\" screen in your WordPress dashboard, or by using the following steps:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-11-24"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Preventing preloading of audio in player"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-11-16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Making sure the 'Date Recorded' field is able to be populated and cleared correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-11-12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adjusting episode recorded date display to be more human readable on the episode edit screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding new URL structure specifically for the audio player file URLs (not publicly visible)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating episode cache to cache series queries separately"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating plugin links in the plugin list table"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-11-03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding option to mark feeds as complete using <code>itunes:complete</code> feed tag if no more episodes will ever be added to the feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding <code>ssp_episode_meta_details</code> filter to allow episode meta data to be easily modified on the fly - <a href=\"http://www.seriouslysimplepodcasting.com/documentation/filter-reference/#ssp-episode-meta-details\">read the filter docs here</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding <code>ssp_show_audio_player</code> filter to allow dynamic control of audio player visibility - <a href=\"http://www.seriouslysimplepodcasting.com/documentation/filter-reference/#ssp-show-audio-player\">read the filter docs here</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding customisable episode embed code field to episode edit screen for easy copying (available in WordPress 4.4+)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding notice for FastCGI servers on Security settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Ensuring the episode update nonce never returns an 'undefined variable' error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating <code>itunes:explicit</code> feed tag with correct values as per new iTunes specification"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating admin screen markup for WordPress 4.4+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating post type and taxonomy registration arguments for WordPress 4.4+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Making sure audio player does not show up in <code>ss_podcast</code> shortcode (issue introduced in v1.12.1)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing iTunes episode descriptions to be the correct length and include HTML correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-10-27"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Ensuring that episode meta data display is the same in all locations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-10-23"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added <code>manage_podcast</code> capability to allow editing of podcast settings (adds to Editors &amp; Administrators by default)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added podcast player and meta data to oEmbed excerpt in WordPress 4.4+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added the ability to select up to three category/sub-category pairs for each feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing localisation files as translations are now handled on translate.wordpress.org"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving MIME type detection for audio files and adding caching for faster queries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving feed performance by removing duplicate actions performed on summary and excerpt text"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-10-06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding series-specific feed tags to HTML head as it should be"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding <code>ssp_show_global_feed_tag</code> and <code>ssp_show_series_feed_tag</code> filters to hide feed tags from HTML head"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding German translation (props signor-rossi)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Making sure shortcodes do not appear in iTunes excerpt (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-10-01"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding Russian translation (props SMXRanger)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Changing text domain to match plugin slug: <code>seriously-simple-podcasting</code>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-09-21"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing image upload on feed settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-09-16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding feed redirection option for individual series (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding 'play in new window' link to episode meta"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Improving episode meta generation to make dynamic filtering much easier using the <code>ssp_episode_meta_details</code> filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding caching to episode retrieval functions (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating settings sanitisation functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Only return episode IDs when loading episode count for At a Glance widget (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Only run <code>wp_enqueue_media()</code> on post pages (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] General syntax and coding standards updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Properly exiting after retrieving audio files (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-07-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Further sanitisation and escaping (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-06-03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Further (final) fixing of SQL statement when fetching episode from audio file URL (props Stef Pause)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing SQL statement when fetching episode from audio file URL (props Stef Pause)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-06-02"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Correctly sanitising all settings (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Preparing SQL statement correctly (props Jake Spurlock)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding option to display latest episode in Single Episode widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Making settings update notices dismissable in WordPress 4.2+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding 'please review' and 'thank you' text to footer of plugin settings pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-05-08"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Correcting URL in <code>&lt;link&gt;</code> tag in podcast RSS feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Making sure enclosure URLs always have a valid file extension"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-05-05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding <code>ssp_feed_channel_link_tag</code> filter to allow dynamic editing of RSS feed <code>&lt;link&gt;</code> tag content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Using correct feed URL for <code>&lt;link&gt;</code> tag in podcast RSS feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating 'Feed for a specific series' in 'Publishing' tab to show correct URL structure"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Making <code>$version</code>, <code>$token</code> and <code>$home_url</code> class variables public for easier access"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Making sure feed checks for audio file MIME type on correct file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Correctly handling multibyte characters inside episode details in feeds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-04-28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Making sure that audio player and episode data do not display on protected posts until password has been entered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating 'Documentation' URL in plugin links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-04-22"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Making sure that widget &amp; shortcode audio player use correct file URL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Removing <code>ref</code> parameter from audio player file URL to ensure reliable playback"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-04-20"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Properly escaping URLs to account for recent security exposure in WordPress core"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Removing URL escaping when saving audio file to episode - prevents stripping of spaces from file names"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-03-31"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing dynamic file size calculation from feed template to improve feed load times"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing <code>iframe</code> tags from all feed content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding <code>ssp_audio_player</code> filter to allow alternative media players to be used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Adjusting <code>itunes:subtitle</code> feed tag content to never exceed 225 characters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-03-18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing 'Audio player position' option to make sure the selected positioning works in all cases"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-03-17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing streaming through audio player as well as remote services (iTunes, etc.) by checking link referrer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Passing audio file referrer to download function and action hook"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-03-16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Making sure that the audio player always receives a direct file reference (requires pretty permalinks)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-03-15"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding ability to supply different feed details for each series so you can run multiple podcasts from one site"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding 'Series' widget for displaying a list of episodes from a selected series"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding 'Single Episode' widget for displaying single podcast episode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding <code>podcast_episode</code> shortcode for displaying single podcast episode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding 'Date recorded' field to episode details"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding <code>ssp_hide_episode_details</code> filter to allow dynamic hiding of episode details"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Creating new and improved permalink structure for series feeds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding 'view feed' link to feed details settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Further improving episode download links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving episode custom fields display"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating publishing URLs to be more accurate for different permalink structures"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Numerous code improvements and performance optimisations across the board"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-03-05"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving episode download links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Minor code reformat and optimisation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-02-24"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding Jetpack Publicize support to <code>podcast</code> post type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding <code>$type</code> argument to <code>ssp_show_generator_tag</code> filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Moving <code>podcast</code> post type and feed registration earlier to prevent potential conflicts with other plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding RSS2 head tags to podcast RSS feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing episode lookup when downloading audio file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Ensuring that only the current episode audio file can be accessed when downloading audio files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing explicit flag in podcast RSS feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-02-17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Including WordPress media functions when fetching audio file data dynamically - prevents broken XML feeds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-02-16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Making sure that episode details meta box shows for all selected post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing getID3 class and switching to WordPress' built-in functions for retrieving ID3 data instead"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving retrieval of audio track length and file size"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding sanity checks when fetching podcast post types to ensure no errors are returned"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding global function for retrieving podcast post types to standardise and sanitise data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding plugin generator tag to site header to indicate usage and current version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding filter to hide WordPress SEO RSS footer embed on podcast feed if <a href=\"https://github.com/Yoast/wordpress-seo/pull/1990\">my patch</a> is accepted"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-02-12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Changing priority of meta box saving function - fixes conflict with The Events Calendar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-02-09"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing undefined index error when using <code>ss_podcast</code> shortcode (kudos sharky44)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[DOCS] Creating complete user and developer docs: http://docs.hughlashbrooke.com/"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-02-03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Ensuring that podcast episode details metabox displays for all selected post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Switching to <code>audio_file</code> meta field for episode audio files to prevent automatic audio file deletion"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Updating all existing <code>enclosure</code> fields to new <code>audio_file</code> field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Clarifying descriptions of some settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving display of settings fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Moving widget registration logic into frontend class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Renaming a few filters for consistency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Indicating feed data placeholders more effectively"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-01-22"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding post tag taxonomy to <code>podcast</code> post type (in lieu of keywords removal)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Moving meta box setup to correct hook"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding further measures to prevent WordPress from stripping out audio file when saving episodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Preventing unformatted episode meta data from showing on excerpt (kudos Robert Neu)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing non-object error when no post types are selected in settings (kudos Robert Neu)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-01-19"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding episode featured image as episode image in RSS feed using <code>itunes:image</code> tag"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Udating all episode queries (archives, etc.) to fetch episodes from all relevant post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Ensuring all <code>podcast</code> posts are fetched on the frontend, even if they don't have an enclosure"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating feed category selection to use drop-down menus"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Setting RSS feed to only show number of posts specified in WordPress settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding <code>ssp_feed_number_of_posts</code> filter to allow dynamic filtering of number of posts shown in RSS feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Clarifying descriptions of some options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing 'Keywords' taxonomy as it is no longer supported by iTunes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing unneeded frontend CSS file (obsolete since v1.8)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Reinstating <code>ss_podcast</code> shortcode that was removed in v1.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing default copyright text in feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-01-16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding option to display audio player above or below post content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding podcast taxonomies to all podcast post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding additional labels to taxonomies"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding 'ssp_feed_url' filter to feed URL in RSS meta tag"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing feed URL in RSS meta tag"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Localising RSS meta tag <code>title</code> attribute"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-01-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Allowing any post type to be used for podcast episodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Changing options for displaying audio player and episode details"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Removing built-in templates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Removing and replacing widget with new 'Recent Podcast Episodes' widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Complete restructuring and renaming of classes and files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] New settings class - settings page uses proper tabs, loads much faster and can now be easily extended"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Removing MediaElement library from plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Generating feed correctly using add_feed() and ensuring backwards compatibility for previous versions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Commenting all the things"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding brand new actions and filters everywhere"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Changing dashboard menu icon to be more relevant"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving file size calculations and saving (kudos danielpunkass &amp; kallewangstedt)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Optimising feed template"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Minifying Javascript"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-12-22"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Fixing content display on single podcast template (kudos jeherve)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating admin icon for WordPress 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Small CSS tweak on single podcast template"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing site URLs to work with proper home URL field (kudos firejdl)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-11-26"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing site URL functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-10-25"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing WordPress version comparison for audio player"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing fatal error if ID3 class already exists"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-09-25"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing Javascript error that prevented media uploading from working in Firefox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-09-23"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding error notice for versions of WordPress prior to v3.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Removing PHP warning when using widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing fatal error when using WordPress versions older than v3.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-09-07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding ability to block individual episodes from appearing in iTunes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding integrated sharing options so you can share your podcast URL straight from your WordPress dashboard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding function to overwrite feed template (see the FAQ for more info)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Switching to using the new WordPress media uploader for all media uploading in plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] General code clean up"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updating plugin FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing bug that prevented images being uploaded to episode post content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-08-23"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Switching download link to use home_url() instead of site_url()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-08-15"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding option to hide audio player and episode data from the top of episode content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Adding episode descriptions for individual episodes in iTunes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Using built-in audio player functions for WordPress 3.6+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving content display for built-in plugin templates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-05-11"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing episode file URL in feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-05-10"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Slight tweak to HTML encoding in feed fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving episode download functionality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding hooks for admin pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing backwards compatiblity for old iTunes feed link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-05-03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving (and fully fixing) HTML encoding in feed fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Setting rewrite rules to flush on plugin activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding to the plugin FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing typo in back-end widget display"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-04-28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Forcing episode download when download link is clicked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving UI for podcast image uploads"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removing episode meta data from excerpt text"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving built-in single episode template"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding action to settings screen allowing additional settings fields to be added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Showing all episodes in podcast feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-04-26"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding settings info about new iTunes image dimensions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding admin notice for plugin survey"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-04-25"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding further checks for removing HTML from feed content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Trimming episode summary/description in feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-04-19"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding file size fallback to feed template to avoid potential validation errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-04-07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding new plugin branding to WordPress admin - no new features are included in this update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updated the plugin FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-03-30"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added work around for WordPress bug that causes 404 error on feed when site has no posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Removed episode meta from feed description/summary"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added global function to check if podcast feed is loading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Core functions are now loaded earlier in the plugin so they are more widely available"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-03-18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixed built-in archive page template"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Restructured &amp; streamlined settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updated FAQs to reflect recent support queries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-03-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added option to password protect podcast feed - sets a 'HTTP 401 Unauthorized' header and requests a username and password"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added 'do_feed_podcast' action so plugins/themes can intercept the feed or add their own processing - see templates/feed-podcast.php for usage caveats"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixed series feed URLs (please take note of changes on podcast settings page)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixed a few typos on the settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added series feed URL to series taxonomy table for quick reference"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Moved feed template include to latest possible hook - this allows other plugins to load their templates first if necessary"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Simplified field descriptions on settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added validation to podcast description field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updated localisation strings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Updated plugin FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added 'Upcoming Features' list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-03-11"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixed issue where site subtitle was being displayed in author field in feed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-03-09"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added <code>author</code> and <code>custom fields</code> to podcast episode edit page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-03-08"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added media player to podcast meta data for display when built-in templates are not being used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-02-28"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Removed HTML tags from feed description/summary"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Added comments capability to podcast episodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improved MIME type recognition"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improved plugin FAQ"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-02-16"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added option to syndicate your feed through Feedburner (or similar service)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added RSS meta tags to site header"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added option to show podcast episodes in main query loop on home page along with blog posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Unified feed templates, so only one feed is used for all podcasting services (ensured backward compatibility for existing feed URLs)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Changed podcast settings page URL (menu link is still in same place though)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-02-14"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Removed conflicts with other plugins that prevented some admin pages from loading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-02-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixed critical bug that was preventing episode data from being added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-02-12"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added setting for redirecting podcast feed to new URL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added episode meta data to start of episode excerpt"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixed file size info &amp; episode descriptions in feeds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Moved settings page to be a sub-page of the Podcast menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improved enclosure file size detection"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improved code commenting to make some features more clear"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improved script loading in dashboard to improve performance on all admin pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improved FAQ list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-02-07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Switching to using WordPress' built-in MIME type detection"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Improving feed tag layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-23"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing some feed validaton errors and warnings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-21"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Removing PHP errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing XML encoding of category names"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Adding file MIME type to feed RSS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added loads of settings for the podcast feed details"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Massive improvements to both iTunes &amp; standard RSS feeds (including new feed URLs)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Audio duration is now calculated automatically"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[NEW] Added <code>keywords</code> taxonomy to episodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] General performance enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[TWEAK] Enhanced localisation support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[FIX] Fixing bug that broke media uploader in WordPress 3.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-12-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where are the FAQs?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can find complete user and developer documentation (along with the FAQs) on <a href=\"http://www.seriouslysimplepodcasting.com/\">the Seriously Simple Podcasting documentation site</a>."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Usage"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Simply upload the plugin and you're good to go. Go to \"Podcast &gt; Add New\" to add new episodes and go to \"Podcast &gt; Settings\" to customise your podcast."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Podcast audio files can be uploaded directly into WordPress or hosted on any other site - in the latter case all you'll need to supply is the URL to the file. <em>Please note that episode lengths and file sizes can only be automatically calculated for files that are hosted on the same server as the website - either way though, you can input them in manually.</em>"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "If you need help, you can find complete user and developer documentation <a href=\"http://www.seriouslysimplepodcasting.com/\">here</a>."
+msgstr ""

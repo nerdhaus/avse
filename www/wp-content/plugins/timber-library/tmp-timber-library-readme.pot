@@ -1,0 +1,1082 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Timber"
+msgstr ""
+
+#. Short description.
+msgid "Helps you create themes faster with sustainable code. With Timber, you write HTML using Mustache-like Templates http://timber.upstatement.com"
+msgstr ""
+
+#. Screenshot description.
+msgid "This what a normal WordPres PHP file looks like"
+msgstr ""
+
+#. Screenshot description.
+msgid "With Timber, you write Twig files that are super-clear and HTML-centric."
+msgstr ""
+
+#. Found in description header.
+msgid "Looking for docs?"
+msgstr ""
+
+#. Found in description header.
+msgid "Related Projects"
+msgstr ""
+
+#. Found in description header.
+msgid "What does it look like?"
+msgstr ""
+
+#. Found in description header.
+msgid "Who is it good for?"
+msgstr ""
+
+#. Found in description header.
+msgid "Want to read more?"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong><a href=\"http://upstatement.com/timber\">Project Page</a></strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://github.com/jarednova/timber/wiki/\">Timber Documentation</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong><a href=\"https://github.com/jarednova/timber/wiki/Video-Tutorials\">Video Tutorials</a></strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://github.com/jarednova/timber/wiki/getting-started\">Overview / Getting Started Guide</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wordpress.org/plugins/debug-bar-timber/\"><strong>Timber Debug Bar</strong></a> Adds a debug bar panel that will show you want template is in-use and the data sent to your twig file."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://github.com/jarednova/timber/\">Timber on GitHub</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://tidyrepo.com/timber/\">Timber Overview on Tidy Repo</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://css-tricks.com/timber-and-twig-reignited-my-love-for-wordpress/\">\"Timber and Twig Reignited My Love for WordPress\" on CSS-Tricks</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Timber cleans-up your theme code so, for example, your php file can focus on being the data, while your twig/html file can focus 100% on the HTML and display."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Once Timber is installed and activated in your plugin directory, it gives any WordPress theme the ability to take advantage of the power of Twig and other Timber features."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Nothing. Timber is meant for you to build a theme on. Like the <a href=\"https://github.com/viewportindustries/starkers\">Starkers</a> or <a href=\"https://github.com/Automattic/_s\">_s theme</a> it comes style-free, because you're the style expert. Instead, Timber handles the logic you need to make a kick-ass looking site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Timber is great for any WordPress developer who cares about writing good, maintainable code. It helps teams of designers and developers working together. At <a href=\"http://upstatement.com\">Upstatement</a> we made Timber because not everyone knows the ins-and-outs of the_loop(), WordPress codex and PHP (nor should they). With Timber your best WordPress dev can focus on building the .php files with requests from WordPress and pass the data into .twig files. Once there, designers can easily mark-up data and build out a site's look-and-feel."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "For an example, try modifying your home.php or index.php with something like this:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Then create a subdirectory called <code>views</code> in your theme folder. The make this file: <code>views/welcome.twig</code>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "That's Timber!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New .time method for TimberPost and TimberComment (thanks @lggorman)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WordPress's quality filter when resizing (thanks @t-wright)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for animated gifs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added better support for <a href=\"https://github.com/jarednova/timber/pull/737\">post.get_terms</a> (thanks @aaemnnosttv)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for issue with ACF date field (thanks @rpkoller)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for resizing jpEgs (thanks @eaton)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added fetch method to Timber (thanks @xavivars and @erik-landvall)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a total to the pagination data array (thanks @lggorman)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Threaded comments get some love! (thanks @josephbergdoll)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A fix to date parsing when handling numeric timestamps (thanks @xavivars)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed deprecated twitterify function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Much more docs (and deprecation docs)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with using constants (thanks @xavivars)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Much much much more inline docs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to TimberComment::approved()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "HHVM support confirmed (it always worked, but now the tests prove it)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes to multisite handling of themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to comments pagination (thanks @newkind)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes to things in docs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ID to timber/image/src filter (thanks @aaronhippie)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed edgecase with HTTP_HOST vs SERVER_NAME (thanks @maketimetodesign)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for Image src in some situtations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for TimberMenu visiblility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for TimberComment visibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Patch for method property visibility in TimberPost"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with multisite variables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with string conversion on function output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with static post pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with front pages with static pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed GIF handling (thanks @josephbergdoll and @jarednova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved handling of diff't image sizes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Timber Archives are now tested and much improved (thanks @KLVTZ)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Image fixing (thanks @marciojcoelho)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More tests and improving coverage to 77%"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed capitalization problem for WP.org version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Routes is now its own independent repo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Timber Starter Theme is now its own independent repo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved loading of files (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some errors with TimberImages (thanks @imranismail)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved lingering composer issues (thanks @austinpray, @lucasmichot)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now access <code>{{comment.status}}</code> when working with comments (thanks @simonmilz)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better support for alternate setups with uploads directory (thanks @xavierpriour)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major clean-up of image-handling classes (thanks @xavierpriour)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Starter theme now follows WP coding standards (thanks @kuus)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A slew of other bugs and clean-up (thanks @JeyKeu, @quinn and @jaredNova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Twig goes from 1.6.2 to 1.6.3 (thanks @fabpot)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some clean-up items on Menus (thanks @oskarrough)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Simplified composer installation (thanks @lucasmichot)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some Twig deprecation (thanks @alexlrobertson)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for {{img.src|retina}} filter (@jarednova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleaned-up logic for {{post.next}} and {{post.prev}} (thanks @alexlrobertson)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Simplifiying internals of TimberCore, TimberPost (thanks @alexlrobertson)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initialization of variables from stolen WP functions (thanks @alexlrobertson)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Twitter API call (thanks @asecondwill)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Matched TimberMenu fallback behavior to grab pages_men (@jaredNova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug with the_title filter (thanks @kuus)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed weird conflicts when ACF names match methods (@jaredNova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a filter for timber_output (thanks @aristath)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for galleries showing only 5 images (thanks @IJMacD)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some resulting bugs from numberposts vs. posts_per_page change as relates to galleries (thanks @IJMacD)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with author.php in starter theme (thanks @dmtroyer)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added some sanity checks when menus are missing (thanks @jaredNova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New tests, yay!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with sticky posts being included when just feeding an array of ids"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for pagination links with search terms (thanks @matthewsoares)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with Timber::get_posts and Timber::query_posts using numberposts in args"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some issues with linking to menu items with a hash"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change default response code on load_view to be 200"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error with relpath and subdomains (thanks @jnweaver)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various bug fixes (thanks @andyford, @discern)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hotfix to ensure non-exitent properties don't throw exception (thanks @kylehotchkiss)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Iterators! You can now get data using query_posts which hooks into WP loop. Methods like get_the_title() now work (big thanks to @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed img_to_jpg issue with alternate WP setups (@thetmkay)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with links in TimberMenuItem"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "post.date now supports a DateTime object (@aduth)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "removal of long-since deprecated functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Massive code clean-up and bug fixes (@jaredNova, @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with {{post.author.name}}"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixes and code organization (@hsz, @jaredNova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed .git folder hiding in php-router"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WooCommerce and other plugins in starter theme (thanks @jamesagreenleaf)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Starter theme now based on OO-style TimberSite convention"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can not get the modified_author (thanks @jamesagreenleaf)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "...oh and the modified date (thanks @jamesagreenleaf)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code clean-up like mad (thanks @hsz)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when calling Timber::get_posts in loop (thanks @jamesagreenleaf)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reorganized dependencies into /vendor directories based on composer (thanks @mgmartel, @rarst, @bryanaka)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with image library deletion (thanks @thetmkay)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with sidebar output"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dates now use date_i18n filter (thanks @jamesagreenleaf)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The twig |date filter now defaults to your WP Admin settings (thanks @jamesagreenleaf)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can send Timber::$dirname an array to specify multiple locations of twig files within a theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Load views from anywhere on the server (thanks @th3fallen)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Load twig files from anywhere on the server using an absolute path"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use another version of Twig if you have it loaded (thanks @ButlerPCnet)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "more tests!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BREAKING CHANGE ALERT wp_title no longer appends bloginfo('name') to end of string (thanks @aduth)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "BREAKING CHANGE ALERT get_preview now respects <!-- more --> tag (thanks @jnweaver)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberHelper::transient is more reliable (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Secure urls in TimberImage if current page is served over SSL (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-wrote most of letterboxing functionality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-organized Helper functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberPost::children() now sorts by menu_order, title as WordPress core does (thanks @aduth)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an occaisonal warning (thanks @matthewsoares)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberImage::alt() now returns your image's alt tag info from WordPress (thanks @jnweaver)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "In the router, non-404 headers are forced asap (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Router now accepts + signs in paths"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hotfix on timber-admin error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now you can resize/crop images with positional preferences, thanks @mmikkel. Here are the docs: https://github.com/jarednova/timber/wiki/TimberImage#resize"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the Timber Starter Guide from the admin, a link to the GitHub wiki suffices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now retrieve prev/next posts within the same category (post.next('category').title, etc.). (thanks @slimndap)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with letterboxing images when WP is installed in a subdirectory ( @wesrice)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for images stored inside custom content path (@mmikkel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleaned-up some things in Timber Starter theme (@southernfriedbb, @jarednova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with image heights on external images (thanks @AndrewDuthie)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new filter for timber_compile_result (thanks @parisholley)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Other minor fixes (@jarednova)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Router plays nice with installs in subdirectories (thanks @TerminalPixel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ACF Timber now initializes on Init (thanks @Zerek)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Composer is updated (thanks @Rarst)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "$autoescape bug fixed (thanks @ParisHolley)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now select a term ID from a specific taxonomy (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added stripshortcodes filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberMenuItems now have is_external method"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Other misc bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "print_a lives! added methods for TimberPost"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "quick fix on TimberPost::content which was generating warning"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few things on image handling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to Twig 1.15 (thanks @fabpot)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added wp_link_pages as TimberPost::pagination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New filter to help with template selection (thanks @zlove)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added width, height and aspect methods for TimberImages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Timber::pagination can now accept a single integer as the overall \"size\" argument (for the total number of pages that get shown)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberPost-&gt;class (usage: <code>&lt;article class=\"{{post.class}}\"</code>&gt;) will now show you the products of post_class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sanity checks for ACF (thanks @parisholley)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in TimberPost::prev and TimberPost::next that could return draft posts (thanks @slimndap)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with extra ellipsis in some previews (thanks @parisholley)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added has_term to TimberPost"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Extra checks to make sure redirected links don't get 404 body class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Misc bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix on ugly permalinks for pagination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue where posts retrieved via an array of IDs was truncated at the default post count"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue where loading terms from multi taxonomies (thanks @WL-hohoho)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for post_class on TimberPost (thanks @slimndap)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "new <code>array</code> filter to convert single-values into array in twig"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleaned-up and added translation support to <code>time_ago</code> filter (thanks @WL-hohoho)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberTheme is now available in default context as .theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Post meta now respects arrays (watch out for some possible compatiblity issues here)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Template loads now work for parent/child themes in Windows (thanks @matthewsoares)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better method for removing 404 body class on manual redirects (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Post formats: {{post.format}} !"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More improvements to filters to support external integration with Pods and other WP frameworks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug on date internationalization (thanks @slimndap)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug on using existing image sizes (thanks @matthewsoares)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug on homeurl vs siteurl (thanks @ciarand)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a cache lock to the TimberHelper::transient method"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an in-development version of a TimberArchives object"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgrayedd to Twig 1.14.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added composer integration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bunch of new tests"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Comments now support gravatrs (thanks @asecondwill)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved ACF integration into its own file. It now interacts via hooks instead of in-line"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A few misc. bugs and extra sanity checks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberImages now support alternate sizes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix on revered prev/next post links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cacheing!!!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cacheing!!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cacheing!!!! Timber::render('mytemplate.twig', $data, $expires_time_in_secs);"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Timber::render now automatically echos. Don't want it to? See below..."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Timber::compile method which <em>doesn't</em> automatically echo. (Same args as Timber::render)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added post.get_next / post.get_prev for TimberPosts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a thing to make get_preview easier when you want to omit the 'Read More' link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Read the <a href=\"https://github.com/jarednova/timber/releases/tag/0.15.0\">Full Release Notes</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added hooks to play nicely with Timber Debug Bar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed-up Timber Term aliases, link, path, etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add DB queries now get properly prepared"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Supports custom author permalinks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Simplified TimberPost processing; shaved some processing time off"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More flexiblity for custom routes (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filters for core objects (TimberPost and TimberTerm). This greatly helps when you need to have retrived custom fields or repeaters interprted as posts or terms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Renamed \"WPHelper\" to more namespace-friendly \"TimberHelper\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added function_wrapper helper to execute functions where they are placed in the template as opposed to when they are generated (@mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now have custom fields processed via post.get_field('my_custom_field'). This is a huge help for using things like Advanced Custom Fields' repeater."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Performance improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added comprehensive support for actions and filters (thanks @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rewrote routing to template to be 100% harmonious with WordPress (thanks again @mgmartel)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to some pagination errors when using a custom rewrite on a taxonomy (thanks to @kylehotchkiss)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with stripping the ellipses on a preview (thanks to @bryanscode)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Functions now work more logically, example: {{function('my_special_function', 'arg1')}}"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberMenuItems now get the WP classes you've come to know and love (.current-menu-item, etc.)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More test coverage for images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resizing external images converts the URL into a md5 hash"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed a dangerous backtrace that could overload errorlog"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some object caching on TimberPost-&gt;get_terms to improve performance"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "TimberMenus now contain metadata 'bout the menu (thanks @bryanaka)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with Windows servers (thanks @kzykhys)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resizing external images now incl. the full URL to avoid conflicts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed pagination oddity"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some code cleanup stuff."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A few fixes that catch issues with absolute vs. relative URLs in resize"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pagination is re-factored to be more intuitive, and well, better."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resize is also re-factored to respect absolute vs. relative URLs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Got rid of lots of old, bogus code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed load order of views so files inside of the child theme have priority over the parent theme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "comment ordering respects the default set in WordPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added getting started screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "misc bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "removed lots of old garbage, simplified file organization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "contributors for this release: @ysurian, @thisislawatts, @punkshui and @paulwilde"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "more normalization of menus, users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed bug in post.get_content (thanks @paulwilde)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "fixed bug in way menu items with children got their children (thanks @EloB)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "more normalization of comments"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lots of cleanup of starter theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added theme URI to universal context"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lots of code cleanup thanks to <a href=\"http://github.com/hsz\">Jakub</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new function for bloginfo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now hook into timber_context to filter the $context object"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Timber::get_terms to retrieve lists of your blog's terms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added better support for translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter for executing a function, ie {{'my_theme_function'|filter}}"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Corrected error with sidebar retrieval"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "language_attributes are now available as part of Timber::get_context(); payload."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to Twig 1.13.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added more aliases for easier coding (post.thumbnail instead of post.get_thumbnail, etc.)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Garbage removal"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "load_template for routing can now accept a query argument"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "load_template will wait to load a template so that 'init' actions can fire."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "way more inline documentation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "print_a now includes the output of (most) methods in addition to properties."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added lots of aliases so that things like .author will work the same as .get_author"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can it be used in an existing theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it used in production?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Doesn't this all make WordPress harder since there's more to learn?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Oh, Timber is simple code so it's for making simple themes"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will you support it?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Support?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You bet! Watch these <strong><a href=\"https://github.com/jarednova/timber/wiki/Video-Tutorials\">video tutorials</a></strong> to see how."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "At Upstatement we've now used it on more than a dozen client sites. Hundreds of other sites use it too. You can check some of them out in the <strong><a href=\"http://upstatement.com/timber/#showcase\">showcase</a></strong>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Does jQuery make JavaScript harder? Yes, it's an extra piece to learn -- but it super-charges your ability to write unencumbered JavaScript (and prevents you from having to learn lots of the messy internals). If your answer is \"jQuery sucks and everyone should learn how to write vanilla JS or they're rotten stupid people,\" this tool isn't for you."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Whatever. It simplifies the silly stuff so that you can focus on building more complicated sites and apps. jQuery simplifies Javascript, but you can still use the full range of JS's abilities."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "As stated above, we're using it in dozens of sites (and dozens more planned) -- dozens of other developers are using it too. This isn't going anywhere. Twig is the chosen language for other PHP platforms like Symfony, Drupal 8 and Craft. WordPress will eventually adopt Twig too, I promise you that."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Leave a <a href=\"https://github.com/jarednova/timber/issues?state=open\">GitHub issue</a> and I'll holler back."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Support"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Please use the <a href=\"https://github.com/jarednova/timber/issues?state=open\">GitHub repo</a> to file bugs or questions."
+msgstr ""
